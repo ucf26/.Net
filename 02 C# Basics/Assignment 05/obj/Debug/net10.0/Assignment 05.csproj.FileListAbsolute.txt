@@ -1,0 +1,14 @@
+E:\Courses\.Net Route\Solutions\02 C# Basics\Assignment 05\bin\Debug\net10.0\Assignment 05.exe
+E:\Courses\.Net Route\Solutions\02 C# Basics\Assignment 05\bin\Debug\net10.0\Assignment 05.deps.json
+E:\Courses\.Net Route\Solutions\02 C# Basics\Assignment 05\bin\Debug\net10.0\Assignment 05.runtimeconfig.json
+E:\Courses\.Net Route\Solutions\02 C# Basics\Assignment 05\bin\Debug\net10.0\Assignment 05.dll
+E:\Courses\.Net Route\Solutions\02 C# Basics\Assignment 05\bin\Debug\net10.0\Assignment 05.pdb
+E:\Courses\.Net Route\Solutions\02 C# Basics\Assignment 05\obj\Debug\net10.0\Assignment 05.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\.Net Route\Solutions\02 C# Basics\Assignment 05\obj\Debug\net10.0\Assignment 05.AssemblyInfoInputs.cache
+E:\Courses\.Net Route\Solutions\02 C# Basics\Assignment 05\obj\Debug\net10.0\Assignment 05.AssemblyInfo.cs
+E:\Courses\.Net Route\Solutions\02 C# Basics\Assignment 05\obj\Debug\net10.0\Assignment 05.csproj.CoreCompileInputs.cache
+E:\Courses\.Net Route\Solutions\02 C# Basics\Assignment 05\obj\Debug\net10.0\Assignment 05.dll
+E:\Courses\.Net Route\Solutions\02 C# Basics\Assignment 05\obj\Debug\net10.0\refint\Assignment 05.dll
+E:\Courses\.Net Route\Solutions\02 C# Basics\Assignment 05\obj\Debug\net10.0\Assignment 05.pdb
+E:\Courses\.Net Route\Solutions\02 C# Basics\Assignment 05\obj\Debug\net10.0\Assignment 05.genruntimeconfig.cache
+E:\Courses\.Net Route\Solutions\02 C# Basics\Assignment 05\obj\Debug\net10.0\ref\Assignment 05.dll

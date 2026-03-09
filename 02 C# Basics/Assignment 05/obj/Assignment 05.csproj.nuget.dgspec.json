@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Courses\\.Net Route\\Solutions\\02 C# Basics\\Assignment 05\\Assignment 05.csproj": {}
+    "E:\\Courses\\.Net Route\\.Net\\02 C# Basics\\Assignment 05\\Assignment 05.csproj": {}
   },
   "projects": {
-    "E:\\Courses\\.Net Route\\Solutions\\02 C# Basics\\Assignment 05\\Assignment 05.csproj": {
+    "E:\\Courses\\.Net Route\\.Net\\02 C# Basics\\Assignment 05\\Assignment 05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Courses\\.Net Route\\Solutions\\02 C# Basics\\Assignment 05\\Assignment 05.csproj",
+        "projectUniqueName": "E:\\Courses\\.Net Route\\.Net\\02 C# Basics\\Assignment 05\\Assignment 05.csproj",
         "projectName": "Assignment 05",
-        "projectPath": "E:\\Courses\\.Net Route\\Solutions\\02 C# Basics\\Assignment 05\\Assignment 05.csproj",
+        "projectPath": "E:\\Courses\\.Net Route\\.Net\\02 C# Basics\\Assignment 05\\Assignment 05.csproj",
         "packagesPath": "C:\\Users\\Yousef\\.nuget\\packages\\",
-        "outputPath": "E:\\Courses\\.Net Route\\Solutions\\02 C# Basics\\Assignment 05\\obj\\",
+        "outputPath": "E:\\Courses\\.Net Route\\.Net\\02 C# Basics\\Assignment 05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yousef\\AppData\\Roaming\\NuGet\\NuGet.Config",

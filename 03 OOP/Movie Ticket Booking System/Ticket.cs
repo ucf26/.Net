@@ -47,12 +47,20 @@ namespace Movie_Ticket_Booking_System
 
         public void PrintTicket()
         {
-            Console.WriteLine("==== Ticket Info ====");
-            Console.WriteLine($"Movie:     {MovieName}");
-            Console.WriteLine($"Type:      {Type}");
-            Console.WriteLine($"Seat:      {seat}");
-            Console.WriteLine($"Price:     {Price}");
-            Console.WriteLine($"Total (14% tax): {CalcTotal(14)}");
+            Console.WriteLine($"\t==== Ticket Info ====");
+            Console.WriteLine($"\tMovie:     {MovieName}");
+            Console.WriteLine($"\tType:      {Type}");
+            Console.WriteLine($"\tSeat:      {seat}");
+            Console.WriteLine($"\tPrice:     {Price}");
+            Console.WriteLine($"\tTotal (14% tax): {CalcTotal(14).ToString("F2")}");
+        }
+
+        public void PrintAfterDiscount()
+        {
+            Console.WriteLine($"===== After Discount =====");
+            Console.WriteLine($"Discount Before: {DiscountAmount}");
+
+            Console.WriteLine($"Discount After: {DiscountAmount}");
         }
     }
 

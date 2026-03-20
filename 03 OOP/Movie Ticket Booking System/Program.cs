@@ -94,11 +94,11 @@
                 }
             }
 
-            Type ticketType = type switch
+            TicketType ticketType = type switch
             {
-                0 => Type.Standard,
-                1 => Type.VIP,
-                2 => Type.IMAX
+                0 => TicketType.Standard,
+                1 => TicketType.VIP,
+                2 => TicketType.IMAX
             };
             Ticket T1 = new Ticket(movieName, ticketType, seatRow, seatNumber, price,
                 discountAmount);

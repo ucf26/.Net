@@ -1,13 +1,11 @@
+E:\Courses\.Net Route\.Net\03 OOP\Movie Ticket Booking System\obj\Debug\net10.0\Movie Ticket Booking System.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\.Net Route\.Net\03 OOP\Movie Ticket Booking System\obj\Debug\net10.0\Movie Ticket Booking System.csproj.CoreCompileInputs.cache
+E:\Courses\.Net Route\.Net\03 OOP\Movie Ticket Booking System\obj\Debug\net10.0\Movie Ticket Booking System.sourcelink.json
 E:\Courses\.Net Route\.Net\03 OOP\Movie Ticket Booking System\bin\Debug\net10.0\Movie Ticket Booking System.exe
 E:\Courses\.Net Route\.Net\03 OOP\Movie Ticket Booking System\bin\Debug\net10.0\Movie Ticket Booking System.deps.json
 E:\Courses\.Net Route\.Net\03 OOP\Movie Ticket Booking System\bin\Debug\net10.0\Movie Ticket Booking System.runtimeconfig.json
 E:\Courses\.Net Route\.Net\03 OOP\Movie Ticket Booking System\bin\Debug\net10.0\Movie Ticket Booking System.dll
 E:\Courses\.Net Route\.Net\03 OOP\Movie Ticket Booking System\bin\Debug\net10.0\Movie Ticket Booking System.pdb
-E:\Courses\.Net Route\.Net\03 OOP\Movie Ticket Booking System\obj\Debug\net10.0\Movie Ticket Booking System.GeneratedMSBuildEditorConfig.editorconfig
-E:\Courses\.Net Route\.Net\03 OOP\Movie Ticket Booking System\obj\Debug\net10.0\Movie Ticket Booking System.AssemblyInfoInputs.cache
-E:\Courses\.Net Route\.Net\03 OOP\Movie Ticket Booking System\obj\Debug\net10.0\Movie Ticket Booking System.AssemblyInfo.cs
-E:\Courses\.Net Route\.Net\03 OOP\Movie Ticket Booking System\obj\Debug\net10.0\Movie Ticket Booking System.csproj.CoreCompileInputs.cache
-E:\Courses\.Net Route\.Net\03 OOP\Movie Ticket Booking System\obj\Debug\net10.0\Movie Ticket Booking System.sourcelink.json
 E:\Courses\.Net Route\.Net\03 OOP\Movie Ticket Booking System\obj\Debug\net10.0\Movie Ticket Booking System.dll
 E:\Courses\.Net Route\.Net\03 OOP\Movie Ticket Booking System\obj\Debug\net10.0\refint\Movie Ticket Booking System.dll
 E:\Courses\.Net Route\.Net\03 OOP\Movie Ticket Booking System\obj\Debug\net10.0\Movie Ticket Booking System.pdb

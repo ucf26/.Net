@@ -3,6 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net10.0</TargetFramework>
+	  <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <RootNamespace>Movie_Ticket_Booking_System</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>

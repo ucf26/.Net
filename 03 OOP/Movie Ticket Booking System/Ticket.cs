@@ -16,7 +16,7 @@ namespace Movie_Ticket_Booking_System
         private static int _totalCount=0;
         private static int _ticketId;
 
-        public string MovieName
+        public string? MovieName
         {
             get
             {
@@ -49,11 +49,11 @@ namespace Movie_Ticket_Booking_System
         {
             get
             {
-                return _seatLocation;
+                return _seat;
             }
             set
             {
-                _seatLocation = value;
+                _seat = value;
             }
         }
 
@@ -120,22 +120,26 @@ namespace Movie_Ticket_Booking_System
             return _totalCount;
         }
 
-        public void PrintTicket()
-        {
-            Console.WriteLine($"\t==== Ticket Info ====");
-            Console.WriteLine($"\tMovie:     {_movieName}");
-            Console.WriteLine($"\t_ticketType:      {_ticketType}");
-            Console.WriteLine($"\tSeatLocation :      {_seat}");
-            Console.WriteLine($"\t_price:     {_price}");
-            Console.WriteLine($"\tTotal (14% tax): {CalcTotal(14).ToString("F2")}");
-        }
+        //public void PrintTicket()
+        //{
+        //    Console.WriteLine($"\t==== Ticket Info ====");
+        //    Console.WriteLine($"\tMovie:     {_movieName}");
+        //    Console.WriteLine($"\t_ticketType:      {_ticketType}");
+        //    Console.WriteLine($"\tSeatLocation :      {_seat}");
+        //    Console.WriteLine($"\t_price:     {_price}");
+        //    Console.WriteLine($"\tTotal (14% tax): {CalcTotal(14).ToString("F2")}");
+        //}
 
         public void PrintAfterDiscount()
         {
             Console.WriteLine($"===== After Discount =====");
             Console.WriteLine($"Discount Before: {_discountAmount}");
-
             Console.WriteLine($"Discount After: {_discountAmount}");
+        }
+
+        public override string ToString()
+        {
+            return $"| {_movieName} | {_ticketType} | Seat: {_seat} | Price: {_price:C} | After Tax: {CalcTotal(14):C}";
         }
     }
 
@@ -158,7 +162,7 @@ namespace Movie_Ticket_Booking_System
             Number = number;
         }
 
-        public override string ToString()
+        public override string? ToString()
         {
             return $"({Row}{Number})";
         }

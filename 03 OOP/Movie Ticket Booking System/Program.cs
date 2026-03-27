@@ -10,14 +10,14 @@
 
             // Taking Data of Tickets 
             Console.WriteLine("\n\n========== Ticket Booking ==========\n\n");
-            for (int i = 0; i < 1; i++)
+            for (int i = 0; i < 5; i++)
             {
 
                 Console.WriteLine($"Enter data for Ticket {i+1}:");
 
                 // 1- movie name
                 Console.Write("Enter Movie Name: ");
-                bool validMovieName = false;
+                bool validMovieName = false; 
                 string? movieName = "";
                 while (!validMovieName)
                 {
@@ -116,11 +116,12 @@
 
 
                 C1.AddTicket(temp);
+                Console.WriteLine($"Booking Reference: {BookingHelper.GenerateBookingReference()}");
             }
 
             // Printing Tickets Data
             Console.WriteLine("\n\n========== All Tickets ==========\n\n");
-            for(int i = 0; i < 1; i++)
+            for(int i = 0; i < 5; i++)
             {
                 Console.WriteLine($"Ticket #{i+1}: {C1[i]}");
             }
@@ -132,6 +133,10 @@
             if(null != C1[movName])
             {
                 Console.WriteLine($"Ticket: {C1[movName]}");
+            }
+            else
+            {
+                Console.WriteLine("No Valid Ticket Found");
             }
 
 

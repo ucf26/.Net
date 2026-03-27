@@ -1,0 +1,15 @@
+E:\Courses\.Net Route\.Net\03 OOP\Assignment 02 OOP\bin\Debug\net10.0\Assignment 02 OOP.exe
+E:\Courses\.Net Route\.Net\03 OOP\Assignment 02 OOP\bin\Debug\net10.0\Assignment 02 OOP.deps.json
+E:\Courses\.Net Route\.Net\03 OOP\Assignment 02 OOP\bin\Debug\net10.0\Assignment 02 OOP.runtimeconfig.json
+E:\Courses\.Net Route\.Net\03 OOP\Assignment 02 OOP\bin\Debug\net10.0\Assignment 02 OOP.dll
+E:\Courses\.Net Route\.Net\03 OOP\Assignment 02 OOP\bin\Debug\net10.0\Assignment 02 OOP.pdb
+E:\Courses\.Net Route\.Net\03 OOP\Assignment 02 OOP\obj\Debug\net10.0\Assignment 02 OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\.Net Route\.Net\03 OOP\Assignment 02 OOP\obj\Debug\net10.0\Assignment 02 OOP.AssemblyInfoInputs.cache
+E:\Courses\.Net Route\.Net\03 OOP\Assignment 02 OOP\obj\Debug\net10.0\Assignment 02 OOP.AssemblyInfo.cs
+E:\Courses\.Net Route\.Net\03 OOP\Assignment 02 OOP\obj\Debug\net10.0\Assignment 02 OOP.csproj.CoreCompileInputs.cache
+E:\Courses\.Net Route\.Net\03 OOP\Assignment 02 OOP\obj\Debug\net10.0\Assignment 02 OOP.sourcelink.json
+E:\Courses\.Net Route\.Net\03 OOP\Assignment 02 OOP\obj\Debug\net10.0\Assignment 02 OOP.dll
+E:\Courses\.Net Route\.Net\03 OOP\Assignment 02 OOP\obj\Debug\net10.0\refint\Assignment 02 OOP.dll
+E:\Courses\.Net Route\.Net\03 OOP\Assignment 02 OOP\obj\Debug\net10.0\Assignment 02 OOP.pdb
+E:\Courses\.Net Route\.Net\03 OOP\Assignment 02 OOP\obj\Debug\net10.0\Assignment 02 OOP.genruntimeconfig.cache
+E:\Courses\.Net Route\.Net\03 OOP\Assignment 02 OOP\obj\Debug\net10.0\ref\Assignment 02 OOP.dll

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\Courses\\.Net Route\\.Net\\03 OOP\\Assignment 01 OOP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD2F4BB3-4FD1-43F8-B0F8-02A1261D9D35}|Assignment 01 OOP.csproj|e:\\courses\\.net route\\.net\\03 oop\\assignment 01 oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD2F4BB3-4FD1-43F8-B0F8-02A1261D9D35}|Assignment 01 OOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14245F99-2233-3A53-1FB5-1655CD5F93B5}|Assignment 01 OOP.csproj|e:\\courses\\.net route\\.net\\03 oop\\assignment 01 oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14245F99-2233-3A53-1FB5-1655CD5F93B5}|Assignment 01 OOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -132,7 +132,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\Courses\\.Net Route\\.Net\\03 OOP\\Assignment 01 OOP\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwEYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T11:35:48.594Z",
               "EditorCaption": ""

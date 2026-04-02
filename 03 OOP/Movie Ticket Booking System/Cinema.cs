@@ -7,6 +7,7 @@ namespace Movie_Ticket_Booking_System
     internal class Cinema
     {
         private Ticket?[] _tickets;
+        private string? _cinemaName;
 
         public Ticket? this[int index]
         {
@@ -38,7 +39,6 @@ namespace Movie_Ticket_Booking_System
                 }
                 return null;
             }
-
         }
         
         
@@ -55,16 +55,40 @@ namespace Movie_Ticket_Booking_System
             }
             return false; // cinema is full
         }
-        
+
+
+        public void PrintAllTickets()
+        {
+            for (int i = 0; i < _tickets.Length; i++)
+            {
+                if (_tickets[i] != null)
+                {
+                    Console.WriteLine(_tickets[i]);
+                }
+            }
+        }
+
+
+
+
         public Cinema()
         {
             _tickets = new Ticket[20];
         }
 
+        public void OpenCinema()
+        {
+            Projector.StartProjector();
+        }
+
+        public void CloseCinema()
+        {
+            Projector.CloseProjector();
+        }
 
         //static public string PrintTicket(int index)
         //{
-            
+
         //    return $"Ticket #{index + 1}: {_tickets[index]}";
         //}
 

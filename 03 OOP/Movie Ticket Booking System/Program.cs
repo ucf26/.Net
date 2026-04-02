@@ -4,140 +4,37 @@
     {
         static void Main(string[] args)
         {
-            
+
+
+            // a. Create a Cinema and open it.
             Cinema C1 = new Cinema();
 
-
-            // Taking Data of Tickets 
-            Console.WriteLine("\n\n========== Ticket Booking ==========\n\n");
-            for (int i = 0; i < 5; i++)
-            {
-
-                Console.WriteLine($"Enter data for Ticket {i+1}:");
-
-                // 1- movie name
-                Console.Write("Enter Movie Name: ");
-                bool validMovieName = false; 
-                string? movieName = "";
-                while (!validMovieName)
-                {
-                    movieName = Console.ReadLine();
-                    if (!string.IsNullOrEmpty(movieName))
-                    {
-                        validMovieName = true;
-                    }
-                    else
-                    {
-                        Console.WriteLine("Not a Valid Movie Name!");
-                        Console.Write("Enter Movie Name: ");
-                    }
-                }
-
-                // 2- Ticket Type 
-                Console.Write("Enter Ticket Type (0 = Standard , 1 = VIP , 2 = IMAX ): ");
-                bool validTicktType = false;
-                int type = -1;
-                while (!validTicktType)
-                {
-                    validTicktType = int.TryParse(Console.ReadLine(), out type);
-                    validTicktType = ((type >= 0) && (type <= 2));
-                    if (!validTicktType)
-                    {
-                        Console.WriteLine("Not a Valid Ticket Type!");
-                        Console.Write("Enter Ticket Type: ");
-                    }
-                }
-
-                // 3- seat row
-                Console.Write("Enter Seat Row (A, B, C...): ");
-                bool validSeatRow = false;
-                char seatRow = '-';
-                while (!validSeatRow)
-                {
-                    validSeatRow = char.TryParse(Console.ReadLine(), out seatRow);
-                    validSeatRow = ((seatRow >= 'A') && (seatRow <= 'Z'));
-                    if (!validSeatRow)
-                    {
-                        Console.WriteLine("Not a Valid Row!");
-                        Console.Write("Enter Ticket Row: ");
-                    }
-                }
-
-                //4- seat number
-                Console.Write("Enter Seat Number: ");
-                bool validSeatNumber = false;
-                int seatNumber = -1;
-                while (!validSeatNumber)
-                {
-                    validSeatNumber = int.TryParse(Console.ReadLine(), out seatNumber);
-                    if (!validSeatNumber)
-                    {
-                        Console.WriteLine("Not a Valid Seat Numbr!");
-                        Console.Write("Enter Seat Numbr: ");
-                    }
-                }
-
-                //5- price
-                Console.Write("Enter Price: ");
-                bool validPrice = false;
-                double price = -1;
-                while (!validPrice)
-                {
-                    validPrice = double.TryParse(Console.ReadLine(), out price);
-                    if (!validPrice)
-                    {
-                        Console.WriteLine("Not a Valid Price!");
-                        Console.Write("Enter Price: ");
-                    }
-                }
-
-                //6-discount amount
-                Console.Write("Enter Discount Amount: ");
-                bool validDiscountAmount = false;
-                double discountAmount = -1;
-                while (!validDiscountAmount)
-                {
-                    validDiscountAmount = double.TryParse(Console.ReadLine(), out discountAmount);
-                    if (!validDiscountAmount)
-                    {
-                        Console.WriteLine("Not a Valid Dicount Amount!");
-                        Console.Write("Enter Discount Amount: ");
-                    }
-                }
-
-                TicketType ticketType = type switch
-                {
-                    0 => TicketType.Standard,
-                    1 => TicketType.VIP,
-                    2 => TicketType.IMAX
-                };
-                Ticket temp = new Ticket(movieName, ticketType, seatRow, seatNumber, price,
-                    discountAmount);
+            C1.OpenCinema();
 
 
-                C1.AddTicket(temp);
-                Console.WriteLine($"Booking Reference: {BookingHelper.GenerateBookingReference()}");
-            }
+            // b.Create one of each ticket type (hardcoded data) and add them to the Cinema.
 
-            // Printing Tickets Data
-            Console.WriteLine("\n\n========== All Tickets ==========\n\n");
-            for(int i = 0; i < 5; i++)
-            {
-                Console.WriteLine($"Ticket #{i+1}: {C1[i]}");
-            }
+            VIPTicket T1 = new VIPTicket("Inception", 15.00m, true, 50);
 
-            // searching by movie name
-            Console.WriteLine("\n\n========== Search by Movie ==========\n\n");
-            Console.WriteLine("Enter movie name to search: "); 
-            string movName = Console.ReadLine();
-            if(null != C1[movName])
-            {
-                Console.WriteLine($"Ticket: {C1[movName]}");
-            }
-            else
-            {
-                Console.WriteLine("No Valid Ticket Found");
-            }
+            C1.AddTicket(T1);
+
+
+            IMAXTicket T2 = new IMAXTicket("Avatar", 12.00m, true);
+
+            C1.AddTicket(T2);
+
+            StandardTicket T3 = new StandardTicket("The Matrix", 10.00m, "A-5");
+            
+            C1.AddTicket(T3);
+
+            // Print all tickets.
+
+            C1.PrintAllTickets();
+
+            // d. Close the Cinema.
+            C1.CloseCinema();
+
+            C1.CloseCinema();
 
 
         }

@@ -23,12 +23,20 @@ namespace Movie_Ticket_Booking_System
         public VIPTicket(string moviename, decimal price, bool loungaccess, decimal servicefee) :
             base(moviename, price)
         {
-            _serviceFee = 50;
+            _loungeAccess = loungaccess;
+            _serviceFee = servicefee;
+            SetPrice(base.Price + _serviceFee);
         }
 
+        public override void PrintTicket()
+        {
+            Console.WriteLine( $"Ticket ID : {base.TicketId}, Type: VIP, Movie:{base.MovieName}, Price: {base.Price:C}, Price after tax: {PriceAfterTax:C}, LoungeAccess: {(_loungeAccess == true ? "Yes": "No")}");
+        }
         public override string ToString()
         {
             return base.ToString() + $", Lounge Access: {_loungeAccess}, Service Fee: {_serviceFee:C}";
         }
+
+
     }
 }

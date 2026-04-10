@@ -16,8 +16,8 @@ namespace Movie_Ticket_Booking_System
 
         public string? MovieName
         {
-            get { return MovieName; }
-            set { MovieName = value; }
+            get { return _movieName; }
+            set { _movieName = value; }
         }
 
         public decimal Price
@@ -47,15 +47,46 @@ namespace Movie_Ticket_Booking_System
             _price = price;
         }
 
+        public virtual void PrintTicket()
+        {
+            Console.WriteLine($"Ticket ID : {_ticketId}, Movie:{_movieName}, Price: {_price:C}, Price after tax: {PriceAfterTax:C}");
+        }
+
+
+
         public override string ToString() 
         {
             return $"Ticket ID: {_ticketId}, Movie: {_movieName}, Price: {_price:C}, Price after tax: {PriceAfterTax:C}";
         }
+
+        public void SetPrice(decimal price)
+        {
+            if (price > 0)
+            {
+                _price = price;
+            }
+        }
+
+        public void SetPrice(decimal _basePrice, decimal multiplier)
+        {
+            if (_basePrice > 0 && multiplier > 0)
+            {
+                _price = _basePrice * multiplier;
+            }
+        }
+
+
+
         
+
+
+
         static int GetTotalTickets()
         {
             return _counter;
         }
+
+
 
 
     }

@@ -17,8 +17,13 @@ namespace Movie_Ticket_Booking_System
             _is3D = is3d;
             if (_is3D)
             {
-                price += 30;
+                SetPrice(base.Price + 30);
             }
+        }
+
+        public override void PrintTicket()
+        {
+            Console.WriteLine($"Ticket ID : {base.TicketId}, Type: IMAX, Movie:{base.MovieName}, Price: {base.Price:C}, Price after tax: {PriceAfterTax:C}, Is3D: {(_is3D ? "Yes" : "No")}");
         }
 
         public override string ToString()

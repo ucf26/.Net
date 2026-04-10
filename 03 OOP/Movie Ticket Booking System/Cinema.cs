@@ -63,7 +63,7 @@ namespace Movie_Ticket_Booking_System
             {
                 if (_tickets[i] != null)
                 {
-                    Console.WriteLine(_tickets[i]);
+                    _tickets[i]?.PrintTicket();
                 }
             }
         }
@@ -84,6 +84,11 @@ namespace Movie_Ticket_Booking_System
         public void CloseCinema()
         {
             Projector.CloseProjector();
+        }
+
+        public static void ProcessTicket(Ticket t)
+        {
+            t.PrintTicket();
         }
 
         //static public string PrintTicket(int index)

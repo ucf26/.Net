@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\Courses\\.Net Route\\.Net\\03 OOP\\Movie Ticket Booking System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07E25342-BD8C-E408-7FF3-C3951A111791}|Movie Ticket Booking System.csproj|e:\\courses\\.net route\\.net\\03 oop\\movie ticket booking system\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07E25342-BD8C-E408-7FF3-C3951A111791}|Movie Ticket Booking System.csproj|solutionrelative:ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{07E25342-BD8C-E408-7FF3-C3951A111791}|Movie Ticket Booking System.csproj|e:\\courses\\.net route\\.net\\03 oop\\movie ticket booking system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07E25342-BD8C-E408-7FF3-C3951A111791}|Movie Ticket Booking System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E25342-BD8C-E408-7FF3-C3951A111791}|Movie Ticket Booking System.csproj|e:\\courses\\.net route\\.net\\03 oop\\movie ticket booking system\\vipticket .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E25342-BD8C-E408-7FF3-C3951A111791}|Movie Ticket Booking System.csproj|solutionrelative:vipticket .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07E25342-BD8C-E408-7FF3-C3951A111791}|Movie Ticket Booking System.csproj|e:\\courses\\.net route\\.net\\03 oop\\movie ticket booking system\\imaxticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +19,8 @@
       "RelativeMoniker": "D:0:0:{07E25342-BD8C-E408-7FF3-C3951A111791}|Movie Ticket Booking System.csproj|solutionrelative:standardticket .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E25342-BD8C-E408-7FF3-C3951A111791}|Movie Ticket Booking System.csproj|e:\\courses\\.net route\\.net\\03 oop\\movie ticket booking system\\vipticket .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07E25342-BD8C-E408-7FF3-C3951A111791}|Movie Ticket Booking System.csproj|solutionrelative:vipticket .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07E25342-BD8C-E408-7FF3-C3951A111791}|Movie Ticket Booking System.csproj|e:\\courses\\.net route\\.net\\03 oop\\movie ticket booking system\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E25342-BD8C-E408-7FF3-C3951A111791}|Movie Ticket Booking System.csproj|solutionrelative:ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07E25342-BD8C-E408-7FF3-C3951A111791}|Movie Ticket Booking System.csproj|e:\\courses\\.net route\\.net\\03 oop\\movie ticket booking system\\bookinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,33 +38,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 31,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Courses\\.Net Route\\.Net\\03 OOP\\Movie Ticket Booking System\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\Courses\\.Net Route\\.Net\\03 OOP\\Movie Ticket Booking System\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCIAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAnwCUAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T16:59:54.447Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IMAXTicket.cs",
-              "DocumentMoniker": "E:\\Courses\\.Net Route\\.Net\\03 OOP\\Movie Ticket Booking System\\IMAXTicket.cs",
-              "RelativeDocumentMoniker": "IMAXTicket.cs",
-              "ToolTip": "E:\\Courses\\.Net Route\\.Net\\03 OOP\\Movie Ticket Booking System\\IMAXTicket.cs",
-              "RelativeToolTip": "IMAXTicket.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T20:58:00.709Z",
               "EditorCaption": ""
             },
             {
@@ -177,13 +164,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "IMAXTicket.cs",
+              "DocumentMoniker": "E:\\Courses\\.Net Route\\.Net\\03 OOP\\Movie Ticket Booking System\\IMAXTicket.cs",
+              "RelativeDocumentMoniker": "IMAXTicket.cs",
+              "ToolTip": "E:\\Courses\\.Net Route\\.Net\\03 OOP\\Movie Ticket Booking System\\IMAXTicket.cs",
+              "RelativeToolTip": "IMAXTicket.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T20:58:00.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "VIPTicket .cs",
               "DocumentMoniker": "E:\\Courses\\.Net Route\\.Net\\03 OOP\\Movie Ticket Booking System\\VIPTicket .cs",
               "RelativeDocumentMoniker": "VIPTicket .cs",
               "ToolTip": "E:\\Courses\\.Net Route\\.Net\\03 OOP\\Movie Ticket Booking System\\VIPTicket .cs",
               "RelativeToolTip": "VIPTicket .cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-31T08:52:59.166Z",
               "EditorCaption": ""
@@ -196,20 +196,20 @@
               "RelativeDocumentMoniker": "StandardTicket .cs",
               "ToolTip": "E:\\Courses\\.Net Route\\.Net\\03 OOP\\Movie Ticket Booking System\\StandardTicket .cs",
               "RelativeToolTip": "StandardTicket .cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwvxgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-31T05:57:48.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Ticket.cs",
               "DocumentMoniker": "E:\\Courses\\.Net Route\\.Net\\03 OOP\\Movie Ticket Booking System\\Ticket.cs",
               "RelativeDocumentMoniker": "Ticket.cs",
               "ToolTip": "E:\\Courses\\.Net Route\\.Net\\03 OOP\\Movie Ticket Booking System\\Ticket.cs",
               "RelativeToolTip": "Ticket.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwD0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T17:00:15.832Z",
               "EditorCaption": ""
@@ -235,7 +235,7 @@
               "RelativeDocumentMoniker": "Cinema.cs",
               "ToolTip": "E:\\Courses\\.Net Route\\.Net\\03 OOP\\Movie Ticket Booking System\\Cinema.cs",
               "RelativeToolTip": "Cinema.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwCgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-20T15:12:43.862Z",
               "EditorCaption": ""

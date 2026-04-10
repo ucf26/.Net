@@ -19,6 +19,11 @@ namespace Movie_Ticket_Booking_System
             _seatNumber = seatNumber;
         }
 
+        public override void PrintTicket()
+        {
+            Console.WriteLine($"Ticket ID : {base.TicketId}, Type: Standard, Movie:{base.MovieName}, Price: {base.Price:C}, Price after tax: {PriceAfterTax:C}, Seat Number: {_seatNumber}");
+        }
+
         public override string ToString()
         {
             return base.ToString() + $", Seat Number: {_seatNumber}";

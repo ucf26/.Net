@@ -15,27 +15,33 @@
             // b.Create one of each ticket type (hardcoded data) and add them to the Cinema.
 
             VIPTicket T1 = new VIPTicket("Inception", 15.00m, true, 50);
+            IMAXTicket T2 = new IMAXTicket("Avatar", 12.00m, true);
+            StandardTicket T3 = new StandardTicket("The Matrix", 10.00m, "A-5");
+
+
+
+            // c. Test both versions of SetPrice on one ticket.
+
+            T1.SetPrice(20.00m);
+            T2.SetPrice(20.00m, 5.00m);
+
+
+            // d. Add all tickets to the Cinema and call PrintAllTickets().
 
             C1.AddTicket(T1);
-
-
-            IMAXTicket T2 = new IMAXTicket("Avatar", 12.00m, true);
-
             C1.AddTicket(T2);
-
-            StandardTicket T3 = new StandardTicket("The Matrix", 10.00m, "A-5");
-            
             C1.AddTicket(T3);
-
-            // Print all tickets.
 
             C1.PrintAllTickets();
 
-            // d. Close the Cinema.
-            C1.CloseCinema();
+            // e. Call ProcessTicket() with one of the tickets.
+            Console.WriteLine("\n\n\tProcessing Ticket.....!\n");
 
-            C1.CloseCinema();
+            Cinema.ProcessTicket(T1);
 
+
+            // f. Close the Cinema.
+            C1.CloseCinema();
 
         }
     }

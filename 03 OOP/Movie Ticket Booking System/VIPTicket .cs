@@ -1,10 +1,11 @@
-﻿using System;
+﻿using Movie_Ticket_Booking_System.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Movie_Ticket_Booking_System
 {
-    internal class VIPTicket : Ticket
+    internal class VIPTicket : Ticket, IPrintable
     {
         private bool _loungeAccess;
         public bool LoungeAccess
@@ -28,9 +29,14 @@ namespace Movie_Ticket_Booking_System
             SetPrice(base.Price + _serviceFee);
         }
 
-        public override void PrintTicket()
+        public void Print()
         {
-            Console.WriteLine( $"Ticket ID : {base.TicketId}, Type: VIP, Movie:{base.MovieName}, Price: {base.Price:C}, Price after tax: {PriceAfterTax:C}, LoungeAccess: {(_loungeAccess == true ? "Yes": "No")}");
+            Console.WriteLine( $"Ticket ID : {base.TicketId}, Type: VIP, Booking Status: {base.Status}, Movie:{base.MovieName}, Price: {base.Price:C}, Price after tax: {PriceAfterTax:C}, LoungeAccess: {(_loungeAccess == true ? "Yes": "No")}");
+        }
+
+        public object Clone()
+        {
+            return new VIPTicket(MovieName, Price - _serviceFee, _loungeAccess, _serviceFee );
         }
         public override string ToString()
         {

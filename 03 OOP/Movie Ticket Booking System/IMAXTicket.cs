@@ -1,10 +1,11 @@
-﻿using System;
+﻿using Movie_Ticket_Booking_System.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Movie_Ticket_Booking_System
 {
-    internal class IMAXTicket: Ticket
+    internal class IMAXTicket: Ticket, IPrintable
     {
         private bool _is3D;
         public bool Is3D
@@ -21,11 +22,14 @@ namespace Movie_Ticket_Booking_System
             }
         }
 
-        public override void PrintTicket()
+        public void Print()
         {
-            Console.WriteLine($"Ticket ID : {base.TicketId}, Type: IMAX, Movie:{base.MovieName}, Price: {base.Price:C}, Price after tax: {PriceAfterTax:C}, Is3D: {(_is3D ? "Yes" : "No")}");
+            Console.WriteLine($"Ticket ID : {base.TicketId}, Type: IMAX, Booking Status: {base.Status}, Movie:{base.MovieName}, Price: {base.Price:C}, Price after tax: {PriceAfterTax:C}, Is3D: {(_is3D ? "Yes" : "No")}");
         }
-
+        public object Clone()
+        {
+            return new IMAXTicket(MovieName, Price - (_is3D?30:0), _is3D);
+        }
         public override string ToString()
         {
             return base.ToString() + $", 3D: {_is3D}";

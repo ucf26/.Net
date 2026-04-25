@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Movie_Ticket_Booking_System.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -31,6 +32,13 @@ namespace Movie_Ticket_Booking_System
             counter++;
             return $"BK-{counter}";
         }
+
+        public static void Print(IPrintable obj)
+        {
+            obj.Print();
+        } 
+
+
 
 
     }

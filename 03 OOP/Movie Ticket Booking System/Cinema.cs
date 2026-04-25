@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Movie_Ticket_Booking_System.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -63,7 +64,8 @@ namespace Movie_Ticket_Booking_System
             {
                 if (_tickets[i] != null)
                 {
-                    _tickets[i]?.PrintTicket();
+                    IPrintable tt = _tickets[i];
+                    BookingHelper.Print(tt);
                 }
             }
         }
@@ -88,7 +90,7 @@ namespace Movie_Ticket_Booking_System
 
         public static void ProcessTicket(Ticket t)
         {
-            t.PrintTicket();
+            t.Print();
         }
 
         //static public string PrintTicket(int index)

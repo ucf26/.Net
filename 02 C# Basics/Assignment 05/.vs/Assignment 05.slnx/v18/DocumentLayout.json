@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\Courses\\.Net Route\\.Net\\02 C# Basics\\Assignment 05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64FE2B30-E8D4-8263-8F52-41341D9BA427}|Assignment 05.csproj|e:\\courses\\.net route\\.net\\02 c# basics\\assignment 05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64FE2B30-E8D4-8263-8F52-41341D9BA427}|Assignment 05.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{64FE2B30-E8D4-8263-8F52-41341D9BA427}|Assignment 05.csproj|e:\\courses\\.net route\\.net\\02 c# basics\\assignment 05\\dayofweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64FE2B30-E8D4-8263-8F52-41341D9BA427}|Assignment 05.csproj|solutionrelative:dayofweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64FE2B30-E8D4-8263-8F52-41341D9BA427}|Assignment 05.csproj|e:\\courses\\.net route\\.net\\02 c# basics\\assignment 05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64FE2B30-E8D4-8263-8F52-41341D9BA427}|Assignment 05.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 28,
+          "SelectedChildIndex": 27,
           "Children": [
             {
               "$type": "Bookmark",
@@ -130,19 +130,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DayOfWeek.cs",
               "DocumentMoniker": "E:\\Courses\\.Net Route\\.Net\\02 C# Basics\\Assignment 05\\DayOfWeek.cs",
               "RelativeDocumentMoniker": "DayOfWeek.cs",
-              "ToolTip": "E:\\Courses\\.Net Route\\.Net\\02 C# Basics\\Assignment 05\\DayOfWeek.cs",
-              "RelativeToolTip": "DayOfWeek.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "ToolTip": "E:\\Courses\\.Net Route\\.Net\\02 C# Basics\\Assignment 05\\DayOfWeek.cs*",
+              "RelativeToolTip": "DayOfWeek.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T21:23:54.751Z"
+              "WhenOpened": "2026-03-07T21:23:54.751Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Courses\\.Net Route\\.Net\\02 C# Basics\\Assignment 05\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

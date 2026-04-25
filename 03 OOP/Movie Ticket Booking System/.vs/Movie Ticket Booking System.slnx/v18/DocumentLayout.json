@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\Courses\\.Net Route\\.Net\\03 OOP\\Movie Ticket Booking System\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA0AAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T16:59:54.447Z",
               "IsPinned": true,
@@ -176,8 +176,7 @@
               "RelativeToolTip": "StandardTicket.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwCIAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T17:42:24.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T17:42:24.16Z"
             },
             {
               "$type": "Document",
@@ -189,8 +188,7 @@
               "RelativeToolTip": "Cinema.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAYwD4AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T15:12:43.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-20T15:12:43.862Z"
             },
             {
               "$type": "Document",
@@ -202,8 +200,7 @@
               "RelativeToolTip": "VIPTicket .cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T08:52:59.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-31T08:52:59.166Z"
             },
             {
               "$type": "Document",
@@ -239,8 +236,7 @@
               "RelativeToolTip": "IMAXTicket.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T20:58:00.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T20:58:00.709Z"
             },
             {
               "$type": "Document",
@@ -252,8 +248,7 @@
               "RelativeToolTip": "Ticket.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T17:00:15.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-12T17:00:15.832Z"
             }
           ]
         }

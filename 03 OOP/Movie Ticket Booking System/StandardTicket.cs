@@ -20,7 +20,7 @@ namespace Movie_Ticket_Booking_System
             _seatNumber = seatNumber;
         }
 
-        public void Print()
+        public override void Print()
         {
             Console.WriteLine($"Ticket ID : {base.TicketId}, Type: Standard, Booking Status: {base.Status}, Movie:{base.MovieName}, Price: {base.Price:C}, Price after tax: {PriceAfterTax:C}, Seat Number: {_seatNumber}");
         }
@@ -34,6 +34,12 @@ namespace Movie_Ticket_Booking_System
         {
             return base.ToString() + $", Seat Number: {_seatNumber}";
         }
+        
+        // assume 30% tax for Standard Type
 
+        public override decimal PriceAfterTax()
+        {
+            return (1.3m) * Price;
+        }
     }
 }

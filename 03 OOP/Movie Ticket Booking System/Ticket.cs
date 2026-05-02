@@ -7,7 +7,7 @@ using System.Text;
 
 namespace Movie_Ticket_Booking_System
 {
-    internal class Ticket:IPrintable, IBookable, IClonable
+    internal abstract class Ticket:IPrintable, IBookable, IClonable
     {
         private string? _movieName;
         private decimal _price;
@@ -75,7 +75,6 @@ namespace Movie_Ticket_Booking_System
             get { return _ticketId; }
         }
 
-        public decimal PriceAfterTax => _price * (decimal)1.14;
 
         public Ticket(string movieName, decimal price)
         {
@@ -86,7 +85,7 @@ namespace Movie_Ticket_Booking_System
             _status = BookingStatus.Available;
         }
 
-        public void Print()
+        public virtual void Print()
         {
             Console.WriteLine($"Ticket ID : {_ticketId}, Movie:{_movieName}, Price: {_price:C}, Price after tax: {PriceAfterTax:C}");
         }
@@ -117,6 +116,10 @@ namespace Movie_Ticket_Booking_System
         {
             return _counter;
         }
+
+
+        public abstract decimal PriceAfterTax();
+
 
     }
 

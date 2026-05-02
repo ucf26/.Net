@@ -29,7 +29,7 @@ namespace Movie_Ticket_Booking_System
             SetPrice(base.Price + _serviceFee);
         }
 
-        public void Print()
+        public override void Print()
         {
             Console.WriteLine( $"Ticket ID : {base.TicketId}, Type: VIP, Booking Status: {base.Status}, Movie:{base.MovieName}, Price: {base.Price:C}, Price after tax: {PriceAfterTax:C}, LoungeAccess: {(_loungeAccess == true ? "Yes": "No")}");
         }
@@ -44,5 +44,10 @@ namespace Movie_Ticket_Booking_System
         }
 
 
+        // assume 40% tax for VIP Type
+        public override decimal PriceAfterTax()
+        {
+            return (1.4m) * Price;
+        }
     }
 }

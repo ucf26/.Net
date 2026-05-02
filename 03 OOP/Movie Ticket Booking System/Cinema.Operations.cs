@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Movie_Ticket_Booking_System
 {
-    internal class Cinema
+    internal partial class Cinema
     {
         private Ticket?[] _tickets;
         private string? _cinemaName;
@@ -41,22 +41,6 @@ namespace Movie_Ticket_Booking_System
                 return null;
             }
         }
-        
-        
-        
-        public bool AddTicket(Ticket ticket)
-        {
-            for(int i=0; i < _tickets.Length; i++)
-            {
-                if (_tickets[i] == null)
-                {
-                    _tickets[i] = ticket; // ticket added successfully
-                    return true;
-                }
-            }
-            return false; // cinema is full
-        }
-
 
         public void PrintAllTickets()
         {
@@ -69,9 +53,6 @@ namespace Movie_Ticket_Booking_System
                 }
             }
         }
-
-
-
 
         public Cinema()
         {
@@ -92,12 +73,5 @@ namespace Movie_Ticket_Booking_System
         {
             t.Print();
         }
-
-        //static public string PrintTicket(int index)
-        //{
-
-        //    return $"Ticket #{index + 1}: {_tickets[index]}";
-        //}
-
     }
 }

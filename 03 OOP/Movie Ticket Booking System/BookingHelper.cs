@@ -38,8 +38,21 @@ namespace Movie_Ticket_Booking_System
             obj.Print();
         } 
 
+        public static decimal CalculateTotalRevenue(this Ticket[] arr)
+        {
+            decimal tot = 0;
 
+            for(int i = 0; i < arr.Length; i++)
+            {
+                tot += arr[i].PriceAfterTax();
+            }
+            return tot;
+        }
 
+        public static void TicketInfo(this Ticket ticket)
+        {
+            Console.WriteLine($"Ticket ID: {ticket.TicketId}, Movie Name: {ticket.MovieName}");
+        }
 
     }
 }

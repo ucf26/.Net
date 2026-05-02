@@ -22,7 +22,7 @@ namespace Movie_Ticket_Booking_System
             }
         }
 
-        public void Print()
+        public override void Print()
         {
             Console.WriteLine($"Ticket ID : {base.TicketId}, Type: IMAX, Booking Status: {base.Status}, Movie:{base.MovieName}, Price: {base.Price:C}, Price after tax: {PriceAfterTax:C}, Is3D: {(_is3D ? "Yes" : "No")}");
         }
@@ -33,6 +33,12 @@ namespace Movie_Ticket_Booking_System
         public override string ToString()
         {
             return base.ToString() + $", 3D: {_is3D}";
+        }
+
+        // assume 50% tax for IMAX Type
+        public override decimal PriceAfterTax()
+        {
+            return (1.5m) * Price;
         }
     }
 }

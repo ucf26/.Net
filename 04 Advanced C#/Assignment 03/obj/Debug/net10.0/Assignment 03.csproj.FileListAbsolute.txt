@@ -1,0 +1,15 @@
+E:\Courses\.Net Route\.Net\04 Advanced C#\Assignment 03\bin\Debug\net10.0\Assignment 03.exe
+E:\Courses\.Net Route\.Net\04 Advanced C#\Assignment 03\bin\Debug\net10.0\Assignment 03.deps.json
+E:\Courses\.Net Route\.Net\04 Advanced C#\Assignment 03\bin\Debug\net10.0\Assignment 03.runtimeconfig.json
+E:\Courses\.Net Route\.Net\04 Advanced C#\Assignment 03\bin\Debug\net10.0\Assignment 03.dll
+E:\Courses\.Net Route\.Net\04 Advanced C#\Assignment 03\bin\Debug\net10.0\Assignment 03.pdb
+E:\Courses\.Net Route\.Net\04 Advanced C#\Assignment 03\obj\Debug\net10.0\Assignment 03.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\.Net Route\.Net\04 Advanced C#\Assignment 03\obj\Debug\net10.0\Assignment 03.AssemblyInfoInputs.cache
+E:\Courses\.Net Route\.Net\04 Advanced C#\Assignment 03\obj\Debug\net10.0\Assignment 03.AssemblyInfo.cs
+E:\Courses\.Net Route\.Net\04 Advanced C#\Assignment 03\obj\Debug\net10.0\Assignment 03.csproj.CoreCompileInputs.cache
+E:\Courses\.Net Route\.Net\04 Advanced C#\Assignment 03\obj\Debug\net10.0\Assignment 03.sourcelink.json
+E:\Courses\.Net Route\.Net\04 Advanced C#\Assignment 03\obj\Debug\net10.0\Assignment 03.dll
+E:\Courses\.Net Route\.Net\04 Advanced C#\Assignment 03\obj\Debug\net10.0\refint\Assignment 03.dll
+E:\Courses\.Net Route\.Net\04 Advanced C#\Assignment 03\obj\Debug\net10.0\Assignment 03.pdb
+E:\Courses\.Net Route\.Net\04 Advanced C#\Assignment 03\obj\Debug\net10.0\Assignment 03.genruntimeconfig.cache
+E:\Courses\.Net Route\.Net\04 Advanced C#\Assignment 03\obj\Debug\net10.0\ref\Assignment 03.dll

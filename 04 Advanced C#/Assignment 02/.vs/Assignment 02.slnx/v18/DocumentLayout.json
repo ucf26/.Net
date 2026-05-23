@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "E:\\Courses\\.Net Route\\.Net\\04 Advanced C#\\Assignment 02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9643923F-3FDE-4258-929E-4D92F9534A13}|Assignment 02.csproj|e:\\courses\\.net route\\.net\\04 advanced c#\\assignment 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9643923F-3FDE-4258-929E-4D92F9534A13}|Assignment 02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1000AC9D-162A-A0BF-DA4E-2DBDF7753754}|Assignment 02.csproj|e:\\courses\\.net route\\.net\\04 advanced c#\\assignment 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1000AC9D-162A-A0BF-DA4E-2DBDF7753754}|Assignment 02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9643923F-3FDE-4258-929E-4D92F9534A13}|Assignment 02.csproj|e:\\courses\\.net route\\.net\\04 advanced c#\\assignment 02\\services\\productfilterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9643923F-3FDE-4258-929E-4D92F9534A13}|Assignment 02.csproj|solutionrelative:services\\productfilterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1000AC9D-162A-A0BF-DA4E-2DBDF7753754}|Assignment 02.csproj|e:\\courses\\.net route\\.net\\04 advanced c#\\assignment 02\\services\\productsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1000AC9D-162A-A0BF-DA4E-2DBDF7753754}|Assignment 02.csproj|solutionrelative:services\\productsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9643923F-3FDE-4258-929E-4D92F9534A13}|Assignment 02.csproj|e:\\courses\\.net route\\.net\\04 advanced c#\\assignment 02\\services\\productreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9643923F-3FDE-4258-929E-4D92F9534A13}|Assignment 02.csproj|solutionrelative:services\\productreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1000AC9D-162A-A0BF-DA4E-2DBDF7753754}|Assignment 02.csproj|e:\\courses\\.net route\\.net\\04 advanced c#\\assignment 02\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1000AC9D-162A-A0BF-DA4E-2DBDF7753754}|Assignment 02.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9643923F-3FDE-4258-929E-4D92F9534A13}|Assignment 02.csproj|e:\\courses\\.net route\\.net\\04 advanced c#\\assignment 02\\services\\productsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9643923F-3FDE-4258-929E-4D92F9534A13}|Assignment 02.csproj|solutionrelative:services\\productsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1000AC9D-162A-A0BF-DA4E-2DBDF7753754}|Assignment 02.csproj|e:\\courses\\.net route\\.net\\04 advanced c#\\assignment 02\\services\\productfilterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1000AC9D-162A-A0BF-DA4E-2DBDF7753754}|Assignment 02.csproj|solutionrelative:services\\productfilterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9643923F-3FDE-4258-929E-4D92F9534A13}|Assignment 02.csproj|e:\\courses\\.net route\\.net\\04 advanced c#\\assignment 02\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9643923F-3FDE-4258-929E-4D92F9534A13}|Assignment 02.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1000AC9D-162A-A0BF-DA4E-2DBDF7753754}|Assignment 02.csproj|e:\\courses\\.net route\\.net\\04 advanced c#\\assignment 02\\services\\productreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1000AC9D-162A-A0BF-DA4E-2DBDF7753754}|Assignment 02.csproj|solutionrelative:services\\productreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,58 +32,6 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 31,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductSearchService.cs",
-              "DocumentMoniker": "E:\\Courses\\.Net Route\\.Net\\04 Advanced C#\\Assignment 02\\Services\\ProductSearchService.cs",
-              "RelativeDocumentMoniker": "Services\\ProductSearchService.cs",
-              "ToolTip": "E:\\Courses\\.Net Route\\.Net\\04 Advanced C#\\Assignment 02\\Services\\ProductSearchService.cs",
-              "RelativeToolTip": "Services\\ProductSearchService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T00:24:15.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\Courses\\.Net Route\\.Net\\04 Advanced C#\\Assignment 02\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "E:\\Courses\\.Net Route\\.Net\\04 Advanced C#\\Assignment 02\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAswCgAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T00:15:51.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductFilterService.cs",
-              "DocumentMoniker": "E:\\Courses\\.Net Route\\.Net\\04 Advanced C#\\Assignment 02\\Services\\ProductFilterService.cs",
-              "RelativeDocumentMoniker": "Services\\ProductFilterService.cs",
-              "ToolTip": "E:\\Courses\\.Net Route\\.Net\\04 Advanced C#\\Assignment 02\\Services\\ProductFilterService.cs",
-              "RelativeToolTip": "Services\\ProductFilterService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T00:13:15.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductReportService.cs",
-              "DocumentMoniker": "E:\\Courses\\.Net Route\\.Net\\04 Advanced C#\\Assignment 02\\Services\\ProductReportService.cs",
-              "RelativeDocumentMoniker": "Services\\ProductReportService.cs",
-              "ToolTip": "E:\\Courses\\.Net Route\\.Net\\04 Advanced C#\\Assignment 02\\Services\\ProductReportService.cs",
-              "RelativeToolTip": "Services\\ProductReportService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T23:17:56.727Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
@@ -194,13 +142,61 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductSearchService.cs",
+              "DocumentMoniker": "E:\\Courses\\.Net Route\\.Net\\04 Advanced C#\\Assignment 02\\Services\\ProductSearchService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductSearchService.cs",
+              "ToolTip": "E:\\Courses\\.Net Route\\.Net\\04 Advanced C#\\Assignment 02\\Services\\ProductSearchService.cs",
+              "RelativeToolTip": "Services\\ProductSearchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:24:15.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Courses\\.Net Route\\.Net\\04 Advanced C#\\Assignment 02\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "E:\\Courses\\.Net Route\\.Net\\04 Advanced C#\\Assignment 02\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswCgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:15:51.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductFilterService.cs",
+              "DocumentMoniker": "E:\\Courses\\.Net Route\\.Net\\04 Advanced C#\\Assignment 02\\Services\\ProductFilterService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductFilterService.cs",
+              "ToolTip": "E:\\Courses\\.Net Route\\.Net\\04 Advanced C#\\Assignment 02\\Services\\ProductFilterService.cs",
+              "RelativeToolTip": "Services\\ProductFilterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T00:13:15.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductReportService.cs",
+              "DocumentMoniker": "E:\\Courses\\.Net Route\\.Net\\04 Advanced C#\\Assignment 02\\Services\\ProductReportService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductReportService.cs",
+              "ToolTip": "E:\\Courses\\.Net Route\\.Net\\04 Advanced C#\\Assignment 02\\Services\\ProductReportService.cs",
+              "RelativeToolTip": "Services\\ProductReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T23:17:56.727Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Courses\\.Net Route\\.Net\\04 Advanced C#\\Assignment 02\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\Courses\\.Net Route\\.Net\\04 Advanced C#\\Assignment 02\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAD0AAAAAqn6l8wENwFEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAqn6l8wENwC8AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-17T21:24:59.21Z",
               "EditorCaption": ""

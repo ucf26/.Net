@@ -1,0 +1,14 @@
+E:\Courses\.Net Route\06 LINQ-20260511T131256Z-3-001\06 LINQ\Session 01\Demo\Session01\Demo\bin\Debug\net8.0\Demo.exe
+E:\Courses\.Net Route\06 LINQ-20260511T131256Z-3-001\06 LINQ\Session 01\Demo\Session01\Demo\bin\Debug\net8.0\Demo.deps.json
+E:\Courses\.Net Route\06 LINQ-20260511T131256Z-3-001\06 LINQ\Session 01\Demo\Session01\Demo\bin\Debug\net8.0\Demo.runtimeconfig.json
+E:\Courses\.Net Route\06 LINQ-20260511T131256Z-3-001\06 LINQ\Session 01\Demo\Session01\Demo\bin\Debug\net8.0\Demo.dll
+E:\Courses\.Net Route\06 LINQ-20260511T131256Z-3-001\06 LINQ\Session 01\Demo\Session01\Demo\bin\Debug\net8.0\Demo.pdb
+E:\Courses\.Net Route\06 LINQ-20260511T131256Z-3-001\06 LINQ\Session 01\Demo\Session01\Demo\obj\Debug\net8.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\.Net Route\06 LINQ-20260511T131256Z-3-001\06 LINQ\Session 01\Demo\Session01\Demo\obj\Debug\net8.0\Demo.AssemblyInfoInputs.cache
+E:\Courses\.Net Route\06 LINQ-20260511T131256Z-3-001\06 LINQ\Session 01\Demo\Session01\Demo\obj\Debug\net8.0\Demo.AssemblyInfo.cs
+E:\Courses\.Net Route\06 LINQ-20260511T131256Z-3-001\06 LINQ\Session 01\Demo\Session01\Demo\obj\Debug\net8.0\Demo.csproj.CoreCompileInputs.cache
+E:\Courses\.Net Route\06 LINQ-20260511T131256Z-3-001\06 LINQ\Session 01\Demo\Session01\Demo\obj\Debug\net8.0\Demo.dll
+E:\Courses\.Net Route\06 LINQ-20260511T131256Z-3-001\06 LINQ\Session 01\Demo\Session01\Demo\obj\Debug\net8.0\refint\Demo.dll
+E:\Courses\.Net Route\06 LINQ-20260511T131256Z-3-001\06 LINQ\Session 01\Demo\Session01\Demo\obj\Debug\net8.0\Demo.pdb
+E:\Courses\.Net Route\06 LINQ-20260511T131256Z-3-001\06 LINQ\Session 01\Demo\Session01\Demo\obj\Debug\net8.0\Demo.genruntimeconfig.cache
+E:\Courses\.Net Route\06 LINQ-20260511T131256Z-3-001\06 LINQ\Session 01\Demo\Session01\Demo\obj\Debug\net8.0\ref\Demo.dll

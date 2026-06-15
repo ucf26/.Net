@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d3iHQoHL3yE=",
+  "dgSpecHash": "/MBFue6XyII=",
   "success": true,
-  "projectFilePath": "E:\\Courses\\.Net Route\\06 LINQ-20260511T131256Z-3-001\\06 LINQ\\Session 01\\Demo\\Session01\\Demo\\Assignment 01.csproj",
+  "projectFilePath": "E:\\Courses\\.Net Route\\.Net\\05 LINQ\\Assignment 01\\Demo\\Assignment 01.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yousef\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
     "C:\\Users\\Yousef\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",

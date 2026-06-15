@@ -1,50 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Courses\\.Net Route\\06 LINQ-20260511T131256Z-3-001\\06 LINQ\\Session 01\\Demo\\Session01\\",
+  "WorkspaceRootPath": "E:\\Courses\\.Net Route\\.Net\\05 LINQ\\Assignment 01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1CCB24F-A868-F185-9228-8CC249247C79}|Demo\\Demo.csproj|e:\\courses\\.net route\\06 linq-20260511t131256z-3-001\\06 linq\\session 01\\demo\\session01\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1CCB24F-A868-F185-9228-8CC249247C79}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CF5C141-0BF3-2404-4FFF-55E3239B70FB}|Demo\\Assignment 01.csproj|e:\\courses\\.net route\\.net\\05 linq\\assignment 01\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF5C141-0BF3-2404-4FFF-55E3239B70FB}|Demo\\Assignment 01.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1CCB24F-A868-F185-9228-8CC249247C79}|Demo\\Assignment 01.csproj|e:\\courses\\.net route\\06 linq-20260511t131256z-3-001\\06 linq\\session 01\\demo\\session01\\demo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1CCB24F-A868-F185-9228-8CC249247C79}|Demo\\Assignment 01.csproj|solutionrelative:demo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CF5C141-0BF3-2404-4FFF-55E3239B70FB}|Demo\\Assignment 01.csproj|e:\\courses\\.net route\\.net\\05 linq\\assignment 01\\demo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF5C141-0BF3-2404-4FFF-55E3239B70FB}|Demo\\Assignment 01.csproj|solutionrelative:demo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1CCB24F-A868-F185-9228-8CC249247C79}|Demo\\Assignment 01.csproj|e:\\courses\\.net route\\06 linq-20260511t131256z-3-001\\06 linq\\session 01\\demo\\session01\\demo\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1CCB24F-A868-F185-9228-8CC249247C79}|Demo\\Assignment 01.csproj|solutionrelative:demo\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CF5C141-0BF3-2404-4FFF-55E3239B70FB}|Demo\\Assignment 01.csproj|e:\\courses\\.net route\\.net\\05 linq\\assignment 01\\demo\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF5C141-0BF3-2404-4FFF-55E3239B70FB}|Demo\\Assignment 01.csproj|solutionrelative:demo\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1CCB24F-A868-F185-9228-8CC249247C79}|Demo\\Demo.csproj|e:\\courses\\.net route\\06 linq-20260511t131256z-3-001\\06 linq\\session 01\\demo\\session01\\demo\\datasources\\source.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1CCB24F-A868-F185-9228-8CC249247C79}|Demo\\Demo.csproj|solutionrelative:demo\\datasources\\source.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CF5C141-0BF3-2404-4FFF-55E3239B70FB}|Demo\\Assignment 01.csproj|e:\\courses\\.net route\\.net\\05 linq\\assignment 01\\demo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF5C141-0BF3-2404-4FFF-55E3239B70FB}|Demo\\Assignment 01.csproj|solutionrelative:demo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1CCB24F-A868-F185-9228-8CC249247C79}|Demo\\Demo.csproj|e:\\courses\\.net route\\06 linq-20260511t131256z-3-001\\06 linq\\session 01\\demo\\session01\\demo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1CCB24F-A868-F185-9228-8CC249247C79}|Demo\\Demo.csproj|solutionrelative:demo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CF5C141-0BF3-2404-4FFF-55E3239B70FB}|Demo\\Assignment 01.csproj|e:\\courses\\.net route\\.net\\05 linq\\assignment 01\\demo\\datasources\\source.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF5C141-0BF3-2404-4FFF-55E3239B70FB}|Demo\\Assignment 01.csproj|solutionrelative:demo\\datasources\\source.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 29,
+          "DockedHeight": 296,
+          "SelectedChildIndex": 28,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "E:\\Courses\\.Net Route\\06 LINQ-20260511T131256Z-3-001\\06 LINQ\\Session 01\\Demo\\Session01\\Demo\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "Demo\\Models\\Customer.cs",
-              "ToolTip": "E:\\Courses\\.Net Route\\06 LINQ-20260511T131256Z-3-001\\06 LINQ\\Session 01\\Demo\\Session01\\Demo\\Models\\Customer.cs",
-              "RelativeToolTip": "Demo\\Models\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T04:53:06.456Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
@@ -147,63 +134,82 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\Courses\\.Net Route\\.Net\\05 LINQ\\Assignment 01\\Demo\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\Customer.cs",
+              "ToolTip": "E:\\Courses\\.Net Route\\.Net\\05 LINQ\\Assignment 01\\Demo\\Models\\Customer.cs",
+              "RelativeToolTip": "Demo\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T04:53:06.456Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Order.cs",
-              "DocumentMoniker": "E:\\Courses\\.Net Route\\06 LINQ-20260511T131256Z-3-001\\06 LINQ\\Session 01\\Demo\\Session01\\Demo\\Models\\Order.cs",
+              "DocumentMoniker": "E:\\Courses\\.Net Route\\.Net\\05 LINQ\\Assignment 01\\Demo\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Demo\\Models\\Order.cs",
-              "ToolTip": "E:\\Courses\\.Net Route\\06 LINQ-20260511T131256Z-3-001\\06 LINQ\\Session 01\\Demo\\Session01\\Demo\\Models\\Order.cs",
+              "ToolTip": "E:\\Courses\\.Net Route\\.Net\\05 LINQ\\Assignment 01\\Demo\\Models\\Order.cs",
               "RelativeToolTip": "Demo\\Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T04:24:26.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-03T04:24:26.403Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Courses\\.Net Route\\06 LINQ-20260511T131256Z-3-001\\06 LINQ\\Session 01\\Demo\\Session01\\Demo\\Program.cs",
+              "DocumentMoniker": "E:\\Courses\\.Net Route\\.Net\\05 LINQ\\Assignment 01\\Demo\\Program.cs",
               "RelativeDocumentMoniker": "Demo\\Program.cs",
-              "ToolTip": "E:\\Courses\\.Net Route\\06 LINQ-20260511T131256Z-3-001\\06 LINQ\\Session 01\\Demo\\Session01\\Demo\\Program.cs*",
-              "RelativeToolTip": "Demo\\Program.cs*",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAqwGcAAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\Courses\\.Net Route\\.Net\\05 LINQ\\Assignment 01\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T03:44:15.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
-              "DocumentMoniker": "E:\\Courses\\.Net Route\\06 LINQ-20260511T131256Z-3-001\\06 LINQ\\Session 01\\Demo\\Session01\\Demo\\Models\\Product.cs",
+              "DocumentMoniker": "E:\\Courses\\.Net Route\\.Net\\05 LINQ\\Assignment 01\\Demo\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Demo\\Models\\Product.cs",
-              "ToolTip": "E:\\Courses\\.Net Route\\06 LINQ-20260511T131256Z-3-001\\06 LINQ\\Session 01\\Demo\\Session01\\Demo\\Models\\Product.cs",
+              "ToolTip": "E:\\Courses\\.Net Route\\.Net\\05 LINQ\\Assignment 01\\Demo\\Models\\Product.cs",
               "RelativeToolTip": "Demo\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T21:07:51.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T21:07:51.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Source.cs",
-              "DocumentMoniker": "E:\\Courses\\.Net Route\\06 LINQ-20260511T131256Z-3-001\\06 LINQ\\Session 01\\Demo\\Session01\\Demo\\DataSources\\Source.cs",
+              "DocumentMoniker": "E:\\Courses\\.Net Route\\.Net\\05 LINQ\\Assignment 01\\Demo\\DataSources\\Source.cs",
               "RelativeDocumentMoniker": "Demo\\DataSources\\Source.cs",
-              "ToolTip": "E:\\Courses\\.Net Route\\06 LINQ-20260511T131256Z-3-001\\06 LINQ\\Session 01\\Demo\\Session01\\Demo\\DataSources\\Source.cs",
+              "ToolTip": "E:\\Courses\\.Net Route\\.Net\\05 LINQ\\Assignment 01\\Demo\\DataSources\\Source.cs",
               "RelativeToolTip": "Demo\\DataSources\\Source.cs",
               "ViewState": "AgIAAEoAAAAAAAAAAAAQwFcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T21:00:32.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T21:00:32.258Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 104,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

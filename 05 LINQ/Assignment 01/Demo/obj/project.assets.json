@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Courses\\.Net Route\\06 LINQ-20260511T131256Z-3-001\\06 LINQ\\Session 01\\Demo\\Session01\\Demo\\Assignment 01.csproj",
+      "projectUniqueName": "E:\\Courses\\.Net Route\\.Net\\05 LINQ\\Assignment 01\\Demo\\Assignment 01.csproj",
       "projectName": "Assignment 01",
-      "projectPath": "E:\\Courses\\.Net Route\\06 LINQ-20260511T131256Z-3-001\\06 LINQ\\Session 01\\Demo\\Session01\\Demo\\Assignment 01.csproj",
+      "projectPath": "E:\\Courses\\.Net Route\\.Net\\05 LINQ\\Assignment 01\\Demo\\Assignment 01.csproj",
       "packagesPath": "C:\\Users\\Yousef\\.nuget\\packages\\",
-      "outputPath": "E:\\Courses\\.Net Route\\06 LINQ-20260511T131256Z-3-001\\06 LINQ\\Session 01\\Demo\\Session01\\Demo\\obj\\",
+      "outputPath": "E:\\Courses\\.Net Route\\.Net\\05 LINQ\\Assignment 01\\Demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yousef\\AppData\\Roaming\\NuGet\\NuGet.Config",

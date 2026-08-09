@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yousef\\Desktop\\My Github\\.Net\\06 EntityFramework\\Assignment 03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1068C6-E64B-86AC-1154-AF1AFFB1B57F}|Assignment 03.csproj|c:\\users\\yousef\\desktop\\my github\\.net\\06 entityframework\\assignment 03\\seeding\\managerseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1068C6-E64B-86AC-1154-AF1AFFB1B57F}|Assignment 03.csproj|solutionrelative:seeding\\managerseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1068C6-E64B-86AC-1154-AF1AFFB1B57F}|Assignment 03.csproj|c:\\users\\yousef\\desktop\\my github\\.net\\06 entityframework\\assignment 03\\seeding\\customerseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1068C6-E64B-86AC-1154-AF1AFFB1B57F}|Assignment 03.csproj|solutionrelative:seeding\\customerseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1068C6-E64B-86AC-1154-AF1AFFB1B57F}|Assignment 03.csproj|c:\\users\\yousef\\desktop\\my github\\.net\\06 entityframework\\assignment 03\\seeding\\branchseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1068C6-E64B-86AC-1154-AF1AFFB1B57F}|Assignment 03.csproj|solutionrelative:seeding\\branchseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1068C6-E64B-86AC-1154-AF1AFFB1B57F}|Assignment 03.csproj|c:\\users\\yousef\\desktop\\my github\\.net\\06 entityframework\\assignment 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1068C6-E64B-86AC-1154-AF1AFFB1B57F}|Assignment 03.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1068C6-E64B-86AC-1154-AF1AFFB1B57F}|Assignment 03.csproj|c:\\users\\yousef\\desktop\\my github\\.net\\06 entityframework\\assignment 03\\seeding\\transactionseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1068C6-E64B-86AC-1154-AF1AFFB1B57F}|Assignment 03.csproj|solutionrelative:seeding\\transactionseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1068C6-E64B-86AC-1154-AF1AFFB1B57F}|Assignment 03.csproj|c:\\users\\yousef\\desktop\\my github\\.net\\06 entityframework\\assignment 03\\seeding\\accountseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1068C6-E64B-86AC-1154-AF1AFFB1B57F}|Assignment 03.csproj|solutionrelative:seeding\\accountseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1068C6-E64B-86AC-1154-AF1AFFB1B57F}|Assignment 03.csproj|c:\\users\\yousef\\desktop\\my github\\.net\\06 entityframework\\assignment 03\\seeding\\customeraccountseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1068C6-E64B-86AC-1154-AF1AFFB1B57F}|Assignment 03.csproj|solutionrelative:seeding\\customeraccountseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1068C6-E64B-86AC-1154-AF1AFFB1B57F}|Assignment 03.csproj|c:\\users\\yousef\\desktop\\my github\\.net\\06 entityframework\\assignment 03\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1068C6-E64B-86AC-1154-AF1AFFB1B57F}|Assignment 03.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1068C6-E64B-86AC-1154-AF1AFFB1B57F}|Assignment 03.csproj|c:\\users\\yousef\\desktop\\my github\\.net\\06 entityframework\\assignment 03\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1068C6-E64B-86AC-1154-AF1AFFB1B57F}|Assignment 03.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1068C6-E64B-86AC-1154-AF1AFFB1B57F}|Assignment 03.csproj|c:\\users\\yousef\\desktop\\my github\\.net\\06 entityframework\\assignment 03\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1068C6-E64B-86AC-1154-AF1AFFB1B57F}|Assignment 03.csproj|solutionrelative:models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1068C6-E64B-86AC-1154-AF1AFFB1B57F}|Assignment 03.csproj|c:\\users\\yousef\\desktop\\my github\\.net\\06 entityframework\\assignment 03\\date\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1068C6-E64B-86AC-1154-AF1AFFB1B57F}|Assignment 03.csproj|solutionrelative:date\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1068C6-E64B-86AC-1154-AF1AFFB1B57F}|Assignment 03.csproj|c:\\users\\yousef\\desktop\\my github\\.net\\06 entityframework\\assignment 03\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1068C6-E64B-86AC-1154-AF1AFFB1B57F}|Assignment 03.csproj|solutionrelative:models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1013,
+          "SelectedChildIndex": 30,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerSeeding.cs",
+              "DocumentMoniker": "C:\\Users\\Yousef\\Desktop\\My Github\\.Net\\06 EntityFramework\\Assignment 03\\Seeding\\CustomerSeeding.cs",
+              "RelativeDocumentMoniker": "Seeding\\CustomerSeeding.cs",
+              "ToolTip": "C:\\Users\\Yousef\\Desktop\\My Github\\.Net\\06 EntityFramework\\Assignment 03\\Seeding\\CustomerSeeding.cs*",
+              "RelativeToolTip": "Seeding\\CustomerSeeding.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T21:06:34.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountSeeding.cs",
+              "DocumentMoniker": "C:\\Users\\Yousef\\Desktop\\My Github\\.Net\\06 EntityFramework\\Assignment 03\\Seeding\\AccountSeeding.cs",
+              "RelativeDocumentMoniker": "Seeding\\AccountSeeding.cs",
+              "ToolTip": "C:\\Users\\Yousef\\Desktop\\My Github\\.Net\\06 EntityFramework\\Assignment 03\\Seeding\\AccountSeeding.cs",
+              "RelativeToolTip": "Seeding\\AccountSeeding.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwCEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T20:46:19.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionSeeding.cs",
+              "DocumentMoniker": "C:\\Users\\Yousef\\Desktop\\My Github\\.Net\\06 EntityFramework\\Assignment 03\\Seeding\\TransactionSeeding.cs",
+              "RelativeDocumentMoniker": "Seeding\\TransactionSeeding.cs",
+              "ToolTip": "C:\\Users\\Yousef\\Desktop\\My Github\\.Net\\06 EntityFramework\\Assignment 03\\Seeding\\TransactionSeeding.cs",
+              "RelativeToolTip": "Seeding\\TransactionSeeding.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAUwFAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T22:07:34.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerAccountSeeding.cs",
+              "DocumentMoniker": "C:\\Users\\Yousef\\Desktop\\My Github\\.Net\\06 EntityFramework\\Assignment 03\\Seeding\\CustomerAccountSeeding.cs",
+              "RelativeDocumentMoniker": "Seeding\\CustomerAccountSeeding.cs",
+              "ToolTip": "C:\\Users\\Yousef\\Desktop\\My Github\\.Net\\06 EntityFramework\\Assignment 03\\Seeding\\CustomerAccountSeeding.cs",
+              "RelativeToolTip": "Seeding\\CustomerAccountSeeding.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwAsAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T21:58:21.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BranchSeeding.cs",
+              "DocumentMoniker": "C:\\Users\\Yousef\\Desktop\\My Github\\.Net\\06 EntityFramework\\Assignment 03\\Seeding\\BranchSeeding.cs",
+              "RelativeDocumentMoniker": "Seeding\\BranchSeeding.cs",
+              "ToolTip": "C:\\Users\\Yousef\\Desktop\\My Github\\.Net\\06 EntityFramework\\Assignment 03\\Seeding\\BranchSeeding.cs*",
+              "RelativeToolTip": "Seeding\\BranchSeeding.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T21:55:16.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagerSeeding.cs",
+              "DocumentMoniker": "C:\\Users\\Yousef\\Desktop\\My Github\\.Net\\06 EntityFramework\\Assignment 03\\Seeding\\ManagerSeeding.cs",
+              "RelativeDocumentMoniker": "Seeding\\ManagerSeeding.cs",
+              "ToolTip": "C:\\Users\\Yousef\\Desktop\\My Github\\.Net\\06 EntityFramework\\Assignment 03\\Seeding\\ManagerSeeding.cs*",
+              "RelativeToolTip": "Seeding\\ManagerSeeding.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T21:50:55.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Yousef\\Desktop\\My Github\\.Net\\06 EntityFramework\\Assignment 03\\Date\\Context.cs",
+              "RelativeDocumentMoniker": "Date\\Context.cs",
+              "ToolTip": "C:\\Users\\Yousef\\Desktop\\My Github\\.Net\\06 EntityFramework\\Assignment 03\\Date\\Context.cs",
+              "RelativeToolTip": "Date\\Context.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T06:44:00.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Yousef\\Desktop\\My Github\\.Net\\06 EntityFramework\\Assignment 03\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "C:\\Users\\Yousef\\Desktop\\My Github\\.Net\\06 EntityFramework\\Assignment 03\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA9wBsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T06:20:40.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Yousef\\Desktop\\My Github\\.Net\\06 EntityFramework\\Assignment 03\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Yousef\\Desktop\\My Github\\.Net\\06 EntityFramework\\Assignment 03\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T06:20:40.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\Yousef\\Desktop\\My Github\\.Net\\06 EntityFramework\\Assignment 03\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "Models\\Branch.cs",
+              "ToolTip": "C:\\Users\\Yousef\\Desktop\\My Github\\.Net\\06 EntityFramework\\Assignment 03\\Models\\Branch.cs",
+              "RelativeToolTip": "Models\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T06:18:40.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Yousef\\Desktop\\My Github\\.Net\\06 EntityFramework\\Assignment 03\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "Models\\Manager.cs",
+              "ToolTip": "C:\\Users\\Yousef\\Desktop\\My Github\\.Net\\06 EntityFramework\\Assignment 03\\Models\\Manager.cs",
+              "RelativeToolTip": "Models\\Manager.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T06:18:40.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yousef\\Desktop\\My Github\\.Net\\06 EntityFramework\\Assignment 03\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Yousef\\Desktop\\My Github\\.Net\\06 EntityFramework\\Assignment 03\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T20:41:00.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 432,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
